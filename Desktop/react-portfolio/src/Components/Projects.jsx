@@ -9,7 +9,7 @@ const Projects = () => {
     <motion.h2 
     whileInView={{opacity: 1, x: 0}}
     initial={{opacity: 0, x: -100}}
-    transition={{Duration: 1.5}}
+    transition={{Duration: 2}}
     className="my-20 text-center text-8xl">Coming soon...</motion.h2>
    
    </div>
